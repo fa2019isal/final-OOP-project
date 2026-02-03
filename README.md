@@ -1,7 +1,7 @@
 # final-OOP-project
 This is the final project for OOP course. It is a program for cars show system
 <h2>
-مشروع مقرر /n112IT
+مشروع مقرر  112IT
 .1 اختر سيناريو بسيط (مثل مكتبة، مطعم، مختبر...) يحتوي على 5–7 كلاسات + كلاس التنفيذ.
 .2 ارسم Diagram Class UML يوضح التغليف، الوراثة، التجريد، الواجهات، والـAssociation.
 .3 أضف Class Super واحد على الأقل ولديه اثن� من الأبناء أو أكرث.
