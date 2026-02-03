@@ -1,5 +1,5 @@
 # final-OOP-project
-This is the final project for OOP course. It is a program for cars show system
+his is the final project for the OOP course. It is a software system designed to manage car buying and selling operations.
 <h2>
 مشروع مقرر  112IT
 .1 اختر سيناريو بسيط (مثل مكتبة، مطعم، مختبر...) يحتوي على 5–7 كلاسات + كلاس التنفيذ.
